@@ -153,15 +153,6 @@ for (i=0;i<data.title.length;i++){
  $("#result2").append($output);
 
 }
-// console.log(Object.keys(data).length)
-// console.log(data);
-// console.log(data.title);
-// console.log(data.length);
-// console.log(data.overview);
-// console.log(data.date);
-// console.log(data.json);
-// console.log(data.image);
-// }
 }
 });
 })
